@@ -1,0 +1,54 @@
+{
+  "create": {
+    "actors": [
+      "linuxnode",
+      "lonerstar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "linuxnode",
+      "lonerstar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "linuxnode",
+      "lonerstar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "linuxnode",
+      "lonerstar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "linuxnode",
+      "lonerstar",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}
